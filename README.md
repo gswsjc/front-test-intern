@@ -32,9 +32,9 @@ Deve-se desenvolver uma interface web de um sistema de apontamento de horas.
 
 
 ### O que será analisado? ###
+- **Não é necessário fazer tudo e nem de forma perfeita, sabemos que é uma prova para estagiário e estamos avaliando seu potencial;**
 - Deve-se tentar seguir ao máximo o layout disponível em: **https://marvelapp.com/907acjd/screen/57853562**
 - Será analisado no teste a evoluçao dos commits, qualidade do código;
-- Não é necessário fazer tudo e nem de forma perfeita, sabemos que é uma prova para estagiário e estamos avaliando seu potencial;
 - Lembre-se de trocar esse README.md com as instruções para executar o projeto.
  
  
