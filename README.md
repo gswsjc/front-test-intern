@@ -21,7 +21,7 @@ Deve-se desenvolver uma interface web de um sistema de apontamento de horas.
 
 - Utilizar o que souber de HTML, CSS, JavaScript. Sinta se à vontade para usar qualquer framework.
 
-- Não é necessário que o sistema realmente cadastre dados, só são necessárias as telas. Apenas para as listagens, o sistema deve consumir dados de uma API de mock que deve ser gerada pelo site https://www.mockapi.io
+- Não é necessário que o sistema realmente cadastre dados, só são necessárias as telas. Apenas para as listagens, o sistema deve consumir dados de uma API de mock que deve ser gerada pelo site https://www.mockapi.io (requisito opcional)
 
 ### Interfaces necessárias
 
