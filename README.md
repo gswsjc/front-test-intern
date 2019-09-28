@@ -41,4 +41,4 @@ Deve-se desenvolver uma interface web de um sistema de apontamento de horas.
  
 ### Entrega ###
 
-Após finalizado o projeto, mande um e-mail para **candidato@gsw.com.br** com seu currículo, coloque no assunto "Estagiário Front-end" e descreva no corpo do e-mail o link para o seu repositório com o teste e aguarde o RH entrar em contato.
+Após finalizado o projeto, mande um e-mail para **felipe.teixeira@gsw.com.br** com link do seu repositório ou o código em anexo, coloque no assunto "Estagiário Front-end" e aguarde o RH entrar em contato.
